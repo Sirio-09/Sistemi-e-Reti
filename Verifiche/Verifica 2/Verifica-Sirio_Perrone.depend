@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1770793867 source:c:\users\s.perrone.4104\desktop\verifica-sirio_perrone\main.c
+	<stdio.h>
+	"menu.h"
+
+1770798474 c:\users\s.perrone.4104\desktop\verifica-sirio_perrone\menu.h
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
