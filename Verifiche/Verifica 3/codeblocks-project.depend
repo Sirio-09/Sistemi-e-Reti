@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1777238907 source:c:\users\s.perrone.4104\desktop\sistemi-terze-10-c-ex-2-main\tests\testing\test_alloc.c
+	"test_alloc.h"
+
+1777238907 c:\users\s.perrone.4104\desktop\sistemi-terze-10-c-ex-2-main\tests\testing\test_alloc.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1777238907 source:c:\users\s.perrone.4104\desktop\sistemi-terze-10-c-ex-2-main\tests\testing\test_assert.c
+	"test_assert.h"
+
+1777238907 c:\users\s.perrone.4104\desktop\sistemi-terze-10-c-ex-2-main\tests\testing\test_assert.h
+	<stdio.h>
+	<stdlib.h>
+	"test_groups.h"
+
+1777238907 c:\users\s.perrone.4104\desktop\sistemi-terze-10-c-ex-2-main\tests\testing\test_groups.h
+	<stdbool.h>
+	<stdio.h>
+
+1777238907 source:c:\users\s.perrone.4104\desktop\sistemi-terze-10-c-ex-2-main\tests\testing\test_groups.c
+	"test_groups.h"
+
+1777238907 source:c:\users\s.perrone.4104\desktop\sistemi-terze-10-c-ex-2-main\tests\testing\test_output.c
+	"test_output.h"
+
+1777238907 c:\users\s.perrone.4104\desktop\sistemi-terze-10-c-ex-2-main\tests\testing\test_output.h
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+
+1777238907 source:c:\users\s.perrone.4104\desktop\sistemi-terze-10-c-ex-2-main\tests\main.c
+	<stdio.h>
+	"testing/test.h"
+	"../exercise.h"
+
+1777238907 c:\users\s.perrone.4104\desktop\sistemi-terze-10-c-ex-2-main\tests\testing\test.h
+	"test_alloc.h"
+	"test_assert.h"
+	"test_groups.h"
+	"test_output.h"
+	"test_mocks.h"
+
+1777238907 c:\users\s.perrone.4104\desktop\sistemi-terze-10-c-ex-2-main\tests\testing\test_mocks.h
+
+1777446841 c:\users\s.perrone.4104\desktop\sistemi-terze-10-c-ex-2-main\exercise.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
