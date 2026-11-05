@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1790843100 source:c:\users\giampaolo.maggiore\desktop\4a\esercizio02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funzioni.h"
+
+1764839639 c:\users\giampaolo.maggiore\desktop\4a\esercizio02\funzioni.h
+	<time.h>
+	<windows.h>
+

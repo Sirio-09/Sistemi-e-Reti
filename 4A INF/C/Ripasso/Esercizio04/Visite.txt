@@ -1,0 +1,5 @@
+1;10/11/2026;Elettrocardiogramma;Dott. Cuore;1
+2;12/11/2026;Risonanza;Dott. Osso;2
+3;15/11/2026;Visita Generale;Dott. Mente;3
+4;10/11/2026;Esami del sangue;Dott. Vena;4
+5;20/11/2026;Spirometria;Dott. Aria;5

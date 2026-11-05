@@ -1,0 +1,5 @@
+1;Il Nome della Rosa;Umberto Eco;1;500
+2;It;Stephen King;2;1200
+3;Spider-Man Vol.1;Stan Lee;3;150
+4;Il Signore degli Anelli;J.R.R. Tolkien;4;1200
+5;Divina Commedia;Dante Alighieri;5;800

@@ -1,0 +1,5 @@
+1 Aigotti Davide 2B MEC
+3 Barberis Lorenzo 5A INF
+4 Zefi Andrea 5B INF
+5 Berlizov Mykhailo 4C LIC
+7 Bogetti Leonardo 4A INF

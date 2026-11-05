@@ -1,0 +1,5 @@
+1;Rossi;Mario;Torino;Cardiologia;12
+2;Bianchi;Luigi;Milano;Ortopedia;5
+3;Verdi;Giuseppe;Roma;Neurologia;8
+4;Gialli;Anna;Napoli;Cardiologia;15
+5;Rossi;Mario;Torino;Pneumologia;3

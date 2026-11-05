@@ -1,0 +1,5 @@
+1;Giallo
+2;Horror
+3;Fumetti
+4;Fantasy
+5;Classici
